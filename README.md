@@ -4,4 +4,4 @@
     - Flowchart
     - Class Diagram
     
-    https://github.com/LombokPy/opendata_docs
+    [Document disini](https://github.com/LombokPy/opendata_docs)
