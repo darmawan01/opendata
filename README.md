@@ -1,5 +1,7 @@
 # Open Data Project
-    Open data adalah suatu konsep tentang data yang tersedia secara bebas untuk diakses dan dimanfaatkan oleh masyarakat. lebih jelasnya bisa buka link di bawah ini :
+    Open data adalah suatu konsep tentang data yang tersedia secara bebas untuk diakses dan dimanfaatkan oleh masyarakat. 
+    
+    lebih jelasnya bisa buka link di bawah ini :
     https://id.wikipedia.org/wiki/Data_terbuka
 
 # Cara Contribute
