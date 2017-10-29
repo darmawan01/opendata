@@ -1,2 +1,8 @@
-Django==1.11.6
+django==1.11.6
 django-widget-tweaks
+djangorestframework
+markdown
+django-filter
+drfdocs
+psycopg2
+pillow
