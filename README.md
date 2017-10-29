@@ -12,6 +12,10 @@
     5. clone repo yang sudah anda fork
     6. jalankan vitualenv
     7. pindah directory opendata
+    8. instalasi paket
+    9. lakkukan migration
+    10. modifikasi
+    11. upload & pull request
     
 # Instalasi Paket
     - pip install -r requirements.txt
